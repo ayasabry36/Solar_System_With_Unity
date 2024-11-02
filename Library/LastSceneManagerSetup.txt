@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/LAPTOP/Documents/Batoul Project/Assets/task1.unity
+  isLoaded: 1
+  isActive: 1
